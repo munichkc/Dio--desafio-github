@@ -1,0 +1,8 @@
+Link para download do Git - 
+
+https://git-scm.com/downloads
+
+Link para download do GitHub desktop - 
+
+https://desktop.github.com/
+
