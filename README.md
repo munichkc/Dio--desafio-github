@@ -9,5 +9,3 @@ https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-wr
 
 **Lista Emoji github markdown emoji markup**  
 https://gist.github.com/rxaviers/7360908
-
-
