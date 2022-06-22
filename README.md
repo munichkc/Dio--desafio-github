@@ -15,8 +15,8 @@ https://gist.github.com/rxaviers/7360908
 &nbsp;
 
 
-##Introdução ao Git :rocket:
----
+## Introdução ao Git :rocket:
+
 
 
 Criado pelo engenheiro de software Linus Torvalds, criador do Linux, o GIT é um Sistema de Controle de Versões Distribuído — ou DVCS.
@@ -32,21 +32,17 @@ Este tipo de sistema também simplifica muito o processo de compartilhamento de 
 
 &nbsp;
 
-##GitHub :rocket:
----
+## GitHub :rocket:
+
 ![git-merge](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 
 O GitHub é uma rede social de desenvolvedores. A primeira parte do nome, “Git”, é por causa da utilização do sistema de controle de versão e a segunda parte, “Hub”, tem a ver com a conexão entre profissionais de programação de qualquer lugar do mundo.
-
 O GitHub é uma das maiores plataformas online de trabalho colaborativo do mundo, famoso entre a comunidade de programadores de todo o mundo, é uma espécie de rede social voltada a profissionais de TI cuja tecnologia que o sustenta é o GIT.
-
 Em outras palavras, GitHub é uma plataforma totalmente online onde você pode criar repositórios e hospedar neles seus projetos, colaborar com softwares open source, seguir outros(as) programadores(as) e interagir com códigos de terceiros.
-
 O GitHub armazena todos estes dados em uma nuvem e você pode acessá-los de onde estiver: basta logar-se no site em qualquer navegador.
-
 Para os profissionais da área de tecnologia, as vantagens de utilizar o GitHub são inúmeras.
+A maior delas, talvez, seja a oportunidade de aprender com programadores e programadoras mais experientes que você, especializado nas mesmas ou em diferentes áreas.
 
-A maior delas, talvez, seja a oportunidade de aprender com programadores e programadoras mais experientes que você, especializado nas mesmas ou em diferentes áreas. 
 
 Estas conexões são riquíssimas para quem quer aprender ainda mais.
 
